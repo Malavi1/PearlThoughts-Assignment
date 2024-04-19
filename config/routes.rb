@@ -4,4 +4,5 @@ Rails.application.routes.draw do
     resources :availabilities, only: [:index]
     resources :appointments, only: [:create, :show]
   end
+  root 'doctors#index'
 end
