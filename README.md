@@ -11,8 +11,6 @@ The Out-Patient Appointment System API is a Ruby on Rails application designed t
   - [Doctor Detail Page](#doctor-detail-page)
   - [Availability](#availability)
   - [Appointment Booking](#appointment-booking)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
