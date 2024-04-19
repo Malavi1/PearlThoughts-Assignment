@@ -88,3 +88,8 @@ Request Body:
   "time": "HH:MM:SS",
   "patient_name": "Patient Name"
 }
+
+![Screenshot from 2024-04-19 11-05-50](https://github.com/Malavi1/PearlThoughts-Assignment/assets/112646623/402d7a88-8ef7-4351-9df9-b6ec7606f670)
+![Screenshot from 2024-04-19 11-06-04](https://github.com/Malavi1/PearlThoughts-Assignment/assets/112646623/22a153c2-d8fe-4af2-bf27-1cce160fe9f6)
+![Screenshot from 2024-04-19 11-06-57](https://github.com/Malavi1/PearlThoughts-Assignment/assets/112646623/9ef344b5-779e-4fae-83b3-b6f93a5ed8e7)
+![Screenshot from 2024-04-19 11-06-25](https://github.com/Malavi1/PearlThoughts-Assignment/assets/112646623/635eb27d-2f1e-4108-9591-5a313b134651)
